@@ -13,9 +13,11 @@ Welcome to the **Data Driven Contact Cards** project by Hmabiola! This is a data
 
 - Dynamic rendering of contact cards based on data.
 - Responsive design for mobile and desktop displays.
-- Easy to extend as it is driven by card creation 
+- Easy to extend as it is driven by card creation
+ 
+##Technologues used: 
 
-## - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [TypeScript](https://www.typescriptlang.org/) - A superset of JavaScript that adds static types.
 - [Vite](https://vitejs.dev) - A fast and light weight platform to setup the configurations file and react development envirionment in a whole.
 - [CSS/Styled Components](https://styled-components.com/) - For styling the components
