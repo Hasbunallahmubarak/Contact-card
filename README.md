@@ -23,6 +23,10 @@ Welcome to the **Data Driven Contact Cards** project by Hmabiola! This is a data
 - [CSS/Styled Components](https://styled-components.com/) - For styling the components
 - [Node package manager, NPM](node.js/org) - Allow the use of ``` npm ```commands, run the development arena.
 
+## Demo
+
+You can view the live demo of the application at [Facts about React](https://hmabiola-contactcards.netlify.app/).
+
 ## Installation
 
 To get started with this project, follow these steps:
