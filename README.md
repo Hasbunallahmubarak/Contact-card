@@ -15,7 +15,7 @@ Welcome to the **Data Driven Contact Cards** project by Hmabiola! This is a data
 - Responsive design for mobile and desktop displays.
 - Easy to extend as it is driven by card creation
  
-## Technologues used: 
+## Technologies used: 
 
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [TypeScript](https://www.typescriptlang.org/) - A superset of JavaScript that adds static types.
