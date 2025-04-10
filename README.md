@@ -1,7 +1,6 @@
 Data Driven Contact Cards
 
-Welcome to the **Data Driven Contact Cards** project by Hmabiola! This is a simple React application that displays contact cards dynamically generated from a data source both internally (utilizing modules) and externally (online resource). It showcases how to manage and display data in a user-friendly format.
-
+Welcome to the **Data Driven Contact Cards** project by Hmabiola! This is a data and user inputs driven React application that displays contact cards dynamically generated from data, sourced both internally (utilizing modules, user's  file, and browser's storage) and externally (online resource). it features, dark mode and light mode toggle, and automatic day and nighttime detection, prompting appropriate display. when visitor creates a card omitting the optional "image" input area. The app detects and chooses a default image, which displays a faceless man or woman image upon user selection of gender. 
 ## Table of Contents
 
 - [Features](#features)
@@ -14,7 +13,7 @@ Welcome to the **Data Driven Contact Cards** project by Hmabiola! This is a simp
 
 - Dynamic rendering of contact cards based on data.
 - Responsive design for mobile and desktop displays.
-- Easy to extend with additional fields or styles.
+- Easy to extend as it is driven by card creation 
 
 ## Technologies Used
 
