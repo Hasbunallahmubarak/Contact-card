@@ -15,27 +15,36 @@ Welcome to the **Data Driven Contact Cards** project by Hmabiola! This is a data
 - Responsive design for mobile and desktop displays.
 - Easy to extend as it is driven by card creation 
 
-## Technologies Used
-
-- [React](https://reactjs.org/) - JavaScript library for building user interfaces.
-- [CSS](https://www.w3schools.com/css/) - Styles for the contact cards.
+## - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [TypeScript](https://www.typescriptlang.org/) - A superset of JavaScript that adds static types.
+- [Vite](https://vitejs.dev) - A fast and light weight platform to setup the configurations file and react development envirionment in a whole.
+- [CSS/Styled Components](https://styled-components.com/) - For styling the components
+- [Node package manager, NPM](node.js/org) - Allow the use of <I>npm</> commands, run the development arena.
 
 ## Installation
 
-To get started with the project, follow these steps:
+To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Hasbunallahmubarak/data-driven-contact-cards.git
+   git clone https://github.com/Hasbunallahmubarak/contact-cards.git
+   ```
+2. Move into the cloned repository:
+   ```bash
+      cd contact-cards
+   ```
+3. install all dependencies:
+   ```bash
+      npm install
    ```
 
 ## Contribution
 
 Contributions are welcome! If you have suggestions for improvements or features, feel free to open an issue or submit a pull request.
 
-Fork the repository.
-Create a new branch (git checkout -b feature/YourFeature).
-Make your changes and commit them (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/YourFeature).
-Open a Pull Request.
+
+### Fork the repository.
+- Create a new branch (git checkout -b feature/YourFeature).
+- Make your changes and commit them (git commit -m 'Add some feature').
+- Push to the branch (git push origin feature/YourFeature).
+- Open a Pull Request.
