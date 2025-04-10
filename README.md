@@ -19,7 +19,7 @@ Welcome to the **Data Driven Contact Cards** project by Hmabiola! This is a data
 - [TypeScript](https://www.typescriptlang.org/) - A superset of JavaScript that adds static types.
 - [Vite](https://vitejs.dev) - A fast and light weight platform to setup the configurations file and react development envirionment in a whole.
 - [CSS/Styled Components](https://styled-components.com/) - For styling the components
-- [Node package manager, NPM](node.js/org) - Allow the use of <I>npm</> commands, run the development arena.
+- [Node package manager, NPM](node.js/org) - Allow the use of <I>[npm]<i/> commands, run the development arena.
 
 ## Installation
 
